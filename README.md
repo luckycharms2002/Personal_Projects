@@ -23,3 +23,16 @@
 #python code done on jupyternotebooks to help extract key words from any webpage. Copy and paste any text content onto a txt. file
 #and it will return a list of the top used words on that piece of literature, as well as its frequency. It filters out for
 #articles or conjunctions in english. I used it for making coverletters, and buyside institution / funds' philosophy and investment focus. 
+
+# Fighter.py
+#Python code to scrape data from the UFC website for athletes. Stores into SQL server.
+
+# Cluster.R
+#Failed/Ongoing attempt to quantitatively define different fighting styles.
+#To be used using the SQL file created using Fighter.py
+
+# RTest.R 
+#Scatter Plot creator for an insight into the UFC GOAT debate... however still in process of implementing ability of opponents at time of fight, and championship status.
+#To be used using the SQL file created using Fighter.py
+
+
